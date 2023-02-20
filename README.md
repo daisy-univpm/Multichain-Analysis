@@ -1,5 +1,5 @@
 # Multichain-Analysis
-This GitHub repository contains several folders and notebooks related to the analysis of cryptocurrency swaps. Below is a brief description of each of the folders and their contents.
+This GitHub repository contains several folders and notebooks related to the analysis of cryptocurrency multi-blockchain swaps. Below is a brief description of each of the folders and their contents.
 
 ## Folders
 
